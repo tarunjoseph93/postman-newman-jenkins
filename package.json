@@ -6,7 +6,7 @@
     "test": "tests"
   },
   "scripts": {
-    "api-tests": "newman run tests\postman-test.postman_collection.json"
+    "api-tests": "newman run tests/postman-test.postman_collection.json"
   },
   "author": "Tarun Joseph",
   "dependencies": {
